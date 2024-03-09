@@ -1,6 +1,6 @@
 # IMAGE CLASSIFIER USING PYTORCH (END TO END PROJECT)
 
-# Image Classifier for Cats and Dogs using PyTorch and Comet.ml
+# Image Classifier for Cats and Dogs using PyTorch, Comet.ml and Gradio
 
 ## Introduction
 
